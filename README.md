@@ -35,6 +35,7 @@ Para ejecutar este proyecto, necesitas tener instalados los siguientes component
   - `SOCKS4_proxies.txt`
   - `SOCKS5_proxies.txt`
 Puedes encontrar proxies en el siguiente sitio web: [MikeTroll - Proxies](https://miketrollyt.github.io/MikeTroll/proxies/)
+
 2. Ejecuta el script:
 - Ejecuta el script `main.py` desde la línea de comandos. El script te pedirá que ingreses el tipo de proxy que deseas verificar.
   ```bash
